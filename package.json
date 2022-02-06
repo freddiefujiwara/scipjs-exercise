@@ -1,0 +1,26 @@
+{
+  "name": "scipjs-exercise",
+  "version": "1.0.0",
+  "description": "Exercise for sicpjs https://sicp.sourceacademy.org/",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddiefujiwara/scipjs-exercise.git"
+  },
+  "keywords": [
+    "SICP",
+    "JavaScript"
+  ],
+  "author": "Fumikazu Fujiwara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freddiefujiwara/scipjs-exercise/issues"
+  },
+  "homepage": "https://github.com/freddiefujiwara/scipjs-exercise#readme",
+  "devDependencies": {
+    "jest": "^27.5.0"
+  }
+}
